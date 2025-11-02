@@ -1,0 +1,6 @@
+# Libraries for working with Excel tables
+openpyxl>=3.1.2          # Read/write Excel 2010 xlsx/xlsm/xltx/xltm files
+pandas>=2.0.0            # Data analysis and manipulation library with Excel support
+xlrd>=2.0.1              # Read older .xls Excel files
+xlsxwriter>=3.1.0        # Write Excel files with advanced formatting
+
